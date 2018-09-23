@@ -15,9 +15,18 @@ Document Conventions
 .. note::
   *Describe any standards or typographical conventions that were followed when writing this SRS, such as fonts or highlighting that have special significance. For example, state whether priorities  for higher-level requirements are assumed to be inherited by detailed requirements, or whether every requirement statement is to have its own priority*
 
-Intended Audience and Reading Suggestions
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Definitions, Acronyms, Abbreviations and Intended Audience and Reading Suggestions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. note::
-  *Describe the different types of reader that the document is intended for, such as developers, project managers, marketing staff, users, testers, and documentation writers. Describe what the rest of this SRS contains and how it is organized. Suggest a sequence for reading the document, beginning with the overview sections and proceeding through the sections that are most pertinent to each reader type.*
+This document is intended for:
+
+**Developers**: in order to be sure they are developing the right project that fulfills requirements provided in this document.
+
+**Management**: in order to get familiar with the idea of the project and suggest other features that would make it even more functional.
+
+**Advanced end users, end users**: in order to know exactly what they have to expect from the system, right inputs and outputs and response in error situations.  
+
+
+  
 
