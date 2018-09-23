@@ -25,8 +25,4 @@ This document is intended for:
 
 **Management**: in order to get familiar with the idea of the project and suggest other features that would make it even more functional.
 
-**Advanced end users, end users**: in order to know exactly what they have to expect from the system, right inputs and outputs and response in error situations.  
-
-
-  
-
+**Advanced end users, end users**: in order to know exactly what they have to expect from the system, right inputs and outputs and response in error situations. 
