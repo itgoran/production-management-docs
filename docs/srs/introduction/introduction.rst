@@ -5,10 +5,10 @@ Purpose
 ^^^^^^^
 
 .. note::
-
-  *Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this SRS, particularly if this SRS describes only part of the system or a single subsystem.*
-
-
+  
+  The product represents Software-as-a-service multi-tenant platform which will provide online real time information about current processes in manufacturing a product which will be available to management, external business entities and organization units defined in organization it self.
+  For more information about multitenancy `see here <https://en.wikipedia.org/wiki/Multitenancy>`_.  
+  
 Document Conventions
 ^^^^^^^^^^^^^^^^^^^^
 
